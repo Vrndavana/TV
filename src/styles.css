@@ -9,13 +9,13 @@ body,
 }
 
 body {
-  background-color: #070724;
+  background-color: #0b4e3a;
 }
 
 .App {
   font-family: sans-serif;
   text-align: center;
-  color: #ffffff;
+  color: #ffdfa4;
   max-width: 900px;
   margin: 0 auto;
 }
